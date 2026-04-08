@@ -1,4 +1,4 @@
-O# CIS 410: Cybersecurity Automation
+# CIS 410: Cybersecurity Automation
 
 ## About Me
 - **Name:** Ruweda Hassan
