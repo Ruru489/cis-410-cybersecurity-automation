@@ -16,3 +16,10 @@ This repository is my CIS 410: CyberSecurity Automation portfolio. In this cours
 
 ## Fun Fact
 I enjoy watching movies, playing video games, and learning about history.
+
+## My Week 2 Infrastructure
+
+Runner VM: ub-server
+Runner IP: 192.168.1.162
+
+Pipeline status: ![Hello Pipeline](https://github.com/Ruru489/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)
