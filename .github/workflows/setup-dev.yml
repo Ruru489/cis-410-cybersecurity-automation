@@ -110,7 +110,7 @@ jobs:
           docker --version
 
           echo "=== Docker Compose version ==="
-          docker compose version
+          docker-compose --version
 
           echo "=== Deployment directory ==="
           ls -la /opt/app
