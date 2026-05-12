@@ -16,7 +16,7 @@ services:
       # live deployment metadata for each environment.
       - ENVIRONMENT=${ENVIRONMENT}
       - APP_VERSION=1.0.0
-      - DEPLOY_TIME=${DEPLOY_TIME:-unknown}
+      - DEPLOY_TIME=${DEPLOY_TIME}
       - COMMIT_SHA=${GITHUB_SHA:-local}
       - BRANCH=${GITHUB_REF_NAME:-main}
       - WORKFLOW=deploy-${ENVIRONMENT:-dev}.yml
