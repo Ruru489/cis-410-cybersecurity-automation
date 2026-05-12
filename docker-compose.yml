@@ -19,4 +19,4 @@ services:
       - DEPLOY_TIME=${DEPLOY_TIME}
       - COMMIT_SHA=${GITHUB_SHA}
       - BRANCH=${GITHUB_REF_NAME}
-      - WORKFLOW=deploy-${ENVIRONMENT:-dev}.yml
+      - WORKFLOW=deploy-${ENVIRONMENT}.yml
