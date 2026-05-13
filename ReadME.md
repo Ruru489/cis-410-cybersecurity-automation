@@ -25,3 +25,5 @@ Runner IP: 192.168.1.162
 Pipeline status: ![Hello Pipeline](https://github.com/Ruru489/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)
 
 Deployment test
+
+# Week 5 security scan test
